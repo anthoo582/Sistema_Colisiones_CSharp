@@ -73,4 +73,5 @@ El jugador (rectángulo azul/verde) avanza por plataformas generadas proceduralm
 
 ## Licencia
 
-MIT License - Libre para usar en proyectos personales y comerciales.
+MIT License - Libre para usar en proyectos personales y comerciales. 
+Realizado por Anthony Lopez.
